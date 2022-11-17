@@ -1,0 +1,5 @@
+Variables: son contenedores de datos, hay que indicar con una palabra que son variables, estas son : var, let y const.
+String: es como un texto, puede tener distinta longitud.
+Funciones: las funciones hacen determinada tarea, las usamos para que hagan algo y nos den algo(retorno). Nosotros también le podemos dar cosas, cosas que van a necesitar para poder ejecutar esa tarea que hacen(argumentos).
+Declaraciones if: Estas declaraciones nos permiten hacer algo o no dependiendo de si se cumple una condición. Si una condición se cumple, entonces, hago una cosa, y si no se cumple, se hace otra cosa o no se hace nada
+Valores booleanos: true es verdadero y false es falso. una oración puede ser verdadera o no, por ejemplo, un perro tiene 8 patas, eso es falso.
