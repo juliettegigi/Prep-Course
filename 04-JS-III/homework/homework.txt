@@ -1,0 +1,6 @@
+Los arrays  son para guardar un conjunto de elementos y a todos ellos
+los reuno bajo un nombre, por ejemplo nombres... nombres quiere decir que 
+tengo muchos nombres . mi arreglo va a tener varios nombres y voy a poder
+acceder a ellos por medio de un ciclo for, voy a poder agregar nombres, eliminar,etc
+Tambien puedo tener un arreglo en donde guarde cualquier cosa, lo que venga, 
+y podría llamarlo arregloDeCualquierCosa y ahí podría guardar nombres, ciudades, cualquier cosa.
