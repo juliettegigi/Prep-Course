@@ -1,0 +1,10 @@
+For : 
+for es una palabra que significa para en inglés y se usa
+para repertir un conjunto de instrucciones, líneas de código, i veces.
+Sería, para cada valor de i hacer esto hasta que i tenga un valor.
+
+&&:
+and , or y not son  operadores lógico que va entre dos premisas. una premisa es una oración 
+que podemos decir q es verdadea o falsa. Por ejemplo "Tengo 2 perros", si 
+tengo 2 perros, eso es verdadero y si no los tengo esa premisa es falsa.
+Existen las tablas de verdad que nos muestran los resultados de expresiones con estos operadores.
