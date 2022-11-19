@@ -1,0 +1,21 @@
+Objetos:
+Los objetos son una cosa con todas sus características.Por ejemplo, podemos tener un objeto Persona cuyas características podrían ser... color de ojos, nombre, sexo, comida favorita, etc. También podríamos definirle a una persona alguna cosa que sepa hacer como por ejemplo... podría saber decir hola en inglés.
+
+
+Propiedades:
+Las propiedades son las características del objeto, esas que mencioné.
+
+Métodos:
+Serían las cosas que sabe hacer el objeto y se representan como una función. Entonces, eso de saber decir hola en inglés se representaría de la siguiente manera:
+HolaEnIngles=function(){
+    return "Hello";
+}
+
+Bucle for…in:
+Este bucle es para recorrer a todas las propiedades del objeto
+for(propiedad in objeto){} 
+En la primera iteración propiedad asume el primer atributo del objeto, en la segunda iteración la segunda propiedad y así... y de esa forma podemos acceder a cada propiedad  y vamos a poder acceder al valor también con la notación de corchetes, de la siguiente forma: objeto[propiedad] . con la notación de punto no se puede porque no acepta variables.
+
+Notación de puntos vs notación de corchetes:
+La notación de corchetes tiene su ventaja. por ejemplo,e n el caso de agregar una propiedad... podemos agregar con ambas pero...
+la notación de corchetes nos da la ventaja de poder agregar con una variable.
