@@ -1,0 +1,10 @@
+* `prototype`
+prototype es para agregar un método a una clase.
+en el caso de que se cree a una clase con la palabra "function",
+los métodos no se ponen en la clase porq ocuparían lugar de memoria por cada
+objeto creado.
+
+* _Constructors_ (de Clases)
+constructor es una palabra reservada, se usa para inicializar a los atributos
+de la clase.JS no permite más de un constructor. Los constructores retornan
+una instancia de la clase.
