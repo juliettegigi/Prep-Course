@@ -1,0 +1,36 @@
+
+      h1{
+        color:mediumvioletred;
+     
+      }
+      img{
+        width: 400px;
+      }
+      #thirdDiv{
+        height: 600px;
+        width: 500px;
+        background-color:rgba(124, 74, 8, 0.8);
+        padding: 50px;
+        border:10px coral ridge;
+      }
+      #spanId{
+       font-size:  18px;
+       margin:50px;
+      }
+
+      body{
+        background-image:url("https://th.bing.com/th/id/R.dbcd772416efa94a2186b5897b822d4f?rik=HZa2R1Mg0Qz8mA&pid=ImgRaw&r=0");
+        background-size:contain;
+        display: flex;
+        flex-direction: column;
+        justify-content: center; 
+        align-items: center;
+    }
+
+    .divClass{
+        text-align: center;
+        background-color:rgba(124, 74, 8, 0.6);
+        padding: 10px;
+        border:10px saddlebrown ridge; 
+        margin: 10px;
+    }
