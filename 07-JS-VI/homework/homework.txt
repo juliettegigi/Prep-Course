@@ -1,0 +1,3 @@
+Funciones Callback
+
+los callbacks es pasar por argumento a una función
